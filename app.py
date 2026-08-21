@@ -1,13 +1,7 @@
-"""India Monitor — comprehensive live country intelligence dashboard.
-Run:  streamlit run app.py --server.port 5000
-"""
-
 from __future__ import annotations
-
 import html, math, time, xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from typing import Any
-
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
