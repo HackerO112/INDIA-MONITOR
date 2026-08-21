@@ -1,4 +1,3 @@
-```markdown
 # 🇮🇳 India Monitor
 
 **Comprehensive, real-time country intelligence dashboard for the Republic of India — built entirely with free public APIs and open-source tools.**
